@@ -1,4 +1,4 @@
-# *Google Soultion Challenge**
+# *Google Soultion Challenge*
 ## SECURE VUE AI
 ## **SDG-16 : Peace, Justice and strong Institutions**
 
@@ -12,9 +12,7 @@
 4. [Functioning of model](#functioning-of-model)
 5. [Features](#features)
 6. [Quick Start](#quick-start)
-7. [Snippets](#snippets)
-8. [Links](#links)
-9. [More](#more)
+
 
 ## **Introduction**
 - In response to the growing need for **proactive security measures**, our project focuses on developing an **Advanced AI model** for  **Real-Time CCTV Surveillance System** designed to swiftly **detect and report criminal activities** to the **appropriate authorities**. 
@@ -90,6 +88,7 @@ DataSet Link: https://www.kaggle.com/datasets/mission-ai/crimeucfdataset
 
 ### **Model Structure for Anomaly Classification**
 We classified type of anomaly into these classes:
+
 `categories_labels = {'Fighting': 0, 'Shoplifting': 1, 'Abuse': 2, 'Arrest': 3, 'Shooting': 4, 'Robbery': 5, 'Explosion': 6}`
 - We combined both **Convolutional Neural Network (CNN) and Long Short-Term Memory (LSTM) models** for image classification. The CNN extracts spatial features from images, while the LSTM processes temporal sequences.
 -  These outputs are concatenated and passed through a final softmax layer for classification. The CNN comprises multiple convolutional layers followed by max-pooling and dropout for feature extraction, while the LSTM includes two LSTM layers followed by a dense layer and dropout.
@@ -110,12 +109,15 @@ The website also includes the option to sign in using Google, implemented throug
 
 ### User Registration and Login Process
 For the users who do not want to use their google account for registration, the website offers the option of registrering by username and email-id.
+![login](login.png "Login Page")
 
 ### MongoDB data collection for login 
 The website incorporates MongoDB Compass server functionality to manage user login information and maintain a database of registered user IDs.
+![mongo](db.png "Data Storage")
 
 ### Community post section
 Our website offers a distinctive Community Post section, empowering users to share insights and perspectives to raise awareness about crime prevention and safety measures. Users' contributions are visible in the Views section.
+![post](post.png "Community Post Section")
 
 ### About section for building safer societies
 The About section provides users with information about the United Nations' Sustainable Development Goals and outlines strategies for achieving safer communities, promoting peace, and fostering justice among the general population.
@@ -125,14 +127,14 @@ The collaboration between frontend and backend has been facilitated through the 
 
 ### Interactive Crime Detection Results
 The crime detection model's results can be connected to a new interactive page, allowing users to view the outcome of uploaded videos. Additionally, users can access displays of the frames where a crime occurs, if the uploaded video contains such content.
-
+![results](result.png "Results")
 
 ### Website Alarm and Notifications (Future Scope)
 The future potential of the website could be expanded through the integration of an alarm system capable of notifying relevant authorities based on detected anomalies, while also alerting residents through notifications.
 
-
 ### Precise Anomaly Localization
 The AI precisely pinpoints the exact frame within the video where an anomaly occurs, enabling quick identification and response.
+![output](output_video.mp4 "frame classification")
 
 ### Community Engagement Platform:
  Our platform facilitates community involvement by providing a space for individuals to share insights, report suspicious activities, and collectively contribute to enhancing surveillance efforts.
