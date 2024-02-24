@@ -12,7 +12,7 @@
 4. [Functioning of model](#functioning-of-model)
 5. [Features](#features)
 6. [Quick Start](#quick-start)
-7. Demo (#demo)
+7. [Demo] (#demo)
 
 
 ## **Introduction**
