@@ -145,6 +145,11 @@ The future potential of the website could be expanded through the integration of
 ### Precise Anomaly Localization
 The AI precisely pinpoints the exact frame within the video where an anomaly occurs, enabling quick identification and response.
 
+
+https://github.com/toshan07/Crime-Detection/assets/120120160/b5887489-482f-4b1f-bdfd-6da1853cd092
+
+
+
 ### Community Engagement Platform:
  Our platform facilitates community involvement by providing a space for individuals to share insights, report suspicious activities, and collectively contribute to enhancing surveillance efforts.
 
