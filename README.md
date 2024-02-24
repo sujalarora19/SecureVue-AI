@@ -139,7 +139,10 @@ The future potential of the website could be expanded through the integration of
 
 ### Precise Anomaly Localization
 The AI precisely pinpoints the exact frame within the video where an anomaly occurs, enabling quick identification and response.
-[![Video Demo](login.png)](https://github.com/toshan07/Crime-Detection/blob/main/output_video.mp4)
+
+
+https://github.com/toshan07/Crime-Detection/assets/120120160/1d08463c-d890-427a-a4f2-a4217cfe13e4
+
 
 
 ### Community Engagement Platform:
@@ -172,6 +175,7 @@ Install the project dependencies using npm:
 ```bash
 npm install
 ```
+
 Install the model packages from requirement.txt :
 
 ```bash
