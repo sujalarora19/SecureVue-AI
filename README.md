@@ -103,20 +103,24 @@ A modern and visually appealing design, incorporating the glassmorphism trend st
 
 ### Background Video Page
 The website enhances user experience by incorporating background videos, adding a visually engaging effect to the website's background pages.
+![Video](website.mp4)
 
 ### Authentication
 The website also includes the option to sign in using Google, implemented through Firebase authentication.
 
 ### User Registration and Login Process
 For the users who do not want to use their google account for registration, the website offers the option of registrering by username and email-id.
+
 ![login](login.png "Login Page")
 
 ### MongoDB data collection for login 
 The website incorporates MongoDB Compass server functionality to manage user login information and maintain a database of registered user IDs.
+
 ![mongo](db.png "Data Storage")
 
 ### Community post section
 Our website offers a distinctive Community Post section, empowering users to share insights and perspectives to raise awareness about crime prevention and safety measures. Users' contributions are visible in the Views section.
+
 ![post](post.png "Community Post Section")
 
 ### About section for building safer societies
@@ -127,6 +131,7 @@ The collaboration between frontend and backend has been facilitated through the 
 
 ### Interactive Crime Detection Results
 The crime detection model's results can be connected to a new interactive page, allowing users to view the outcome of uploaded videos. Additionally, users can access displays of the frames where a crime occurs, if the uploaded video contains such content.
+
 ![results](result.png "Results")
 
 ### Website Alarm and Notifications (Future Scope)
@@ -134,7 +139,9 @@ The future potential of the website could be expanded through the integration of
 
 ### Precise Anomaly Localization
 The AI precisely pinpoints the exact frame within the video where an anomaly occurs, enabling quick identification and response.
-![output](output_video.mp4 "frame classification")
+
+![Video](output_video)
+
 
 ### Community Engagement Platform:
  Our platform facilitates community involvement by providing a space for individuals to share insights, report suspicious activities, and collectively contribute to enhancing surveillance efforts.
