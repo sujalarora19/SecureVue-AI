@@ -139,8 +139,7 @@ The future potential of the website could be expanded through the integration of
 
 ### Precise Anomaly Localization
 The AI precisely pinpoints the exact frame within the video where an anomaly occurs, enabling quick identification and response.
-
-output_video.mp4
+[![Video Demo](login.png)](https://github.com/toshan07/Crime-Detection/blob/main/output_video.mp4)
 
 
 ### Community Engagement Platform:
