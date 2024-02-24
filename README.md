@@ -8,7 +8,7 @@
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [Tech Stack](#tech-stack)
-3. [Dataset](#datset)
+3. [Dataset](#dataset)
 4. [Functioning of model](#functioning-of-model)
 5. [Features](#features)
 6. [Quick Start](#quick-start)
@@ -121,7 +121,7 @@ The website incorporates MongoDB Compass server functionality to manage user log
 ### Community post section
 Our website offers a distinctive Community Post section, empowering users to share insights and perspectives to raise awareness about crime prevention and safety measures. Users' contributions are visible in the Views section.
 
-![post](post.png "Community Post Section")
+![post](posts.png "Community Post Section")
 
 ### About section for building safer societies
 The About section provides users with information about the United Nations' Sustainable Development Goals and outlines strategies for achieving safer communities, promoting peace, and fostering justice among the general population.
@@ -132,7 +132,7 @@ The collaboration between frontend and backend has been facilitated through the 
 ### Interactive Crime Detection Results
 The crime detection model's results can be connected to a new interactive page, allowing users to view the outcome of uploaded videos. Additionally, users can access displays of the frames where a crime occurs, if the uploaded video contains such content.
 
-![results](result.png "Results")
+![results](results.png "Results")
 
 ### Website Alarm and Notifications (Future Scope)
 The future potential of the website could be expanded through the integration of an alarm system capable of notifying relevant authorities based on detected anomalies, while also alerting residents through notifications.
