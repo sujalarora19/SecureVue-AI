@@ -12,6 +12,7 @@
 4. [Functioning of model](#functioning-of-model)
 5. [Features](#features)
 6. [Quick Start](#quick-start)
+7. Demo (#demo)
 
 
 ## **Introduction**
@@ -103,7 +104,11 @@ A modern and visually appealing design, incorporating the glassmorphism trend st
 
 ### Background Video Page
 The website enhances user experience by incorporating background videos, adding a visually engaging effect to the website's background pages.
-![Video](website.mp4)
+
+
+https://github.com/toshan07/Crime-Detection/assets/120120160/ead86225-6718-49c0-b085-e4f0efe17256
+
+
 
 ### Authentication
 The website also includes the option to sign in using Google, implemented through Firebase authentication.
@@ -203,3 +208,6 @@ npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+## Demo
+
+[![Video Demo](home.png)](https://www.youtube.com/watch?v=nJki1RElPO4)
