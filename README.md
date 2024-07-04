@@ -201,7 +201,7 @@ Replace the placeholder values with your actual credentials. You can obtain thes
 **Running the Project**
 
 Open the `node_server`, then run the `index.js` file to connect to the database.
-Open the `src`, then run the `Express.js` file to run the express server which is used for deploying the model.
+Open the `src`, then run the `Express.js` file to run the server which is used for deploying the model.
 
 ```bash
 npm run dev
